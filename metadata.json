@@ -1,0 +1,6 @@
+{
+  "name": "SchoolOS - AI-Native School Operating System",
+  "description": "Run Your School. Don't Run After the Data. An AI-native School Operating System combining ERP, SIS, Academics, Fee Management, CRM, Analytics, Automation and AI Copilot into one intelligent multi-tenant platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
